@@ -1,0 +1,10 @@
+---
+title: "life_exp"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
+
